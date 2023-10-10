@@ -10,9 +10,9 @@ python3 genpass.py len [optional arguments]
 # Help
 python3 genpass.py -h 
 
-usage: generate passwords as required by the user
+usage: generate passwords as required by the user<br>
 
-positional arguments:
+positional arguments:<br>
   len                   define the length of the password
 
 options:
