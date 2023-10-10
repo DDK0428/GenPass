@@ -5,7 +5,7 @@ A simple way of generating password as the users requirements.
 python3
 
 # how to run the script
-python3 genpass.py <len> [optional arguments]
+python3 genpass.py len [optional arguments]
 
 # Help
 python3 genpass.py -h 
